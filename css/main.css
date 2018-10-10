@@ -1,11 +1,17 @@
 body {
   background-color: #546A76;
   font-family: 'Reenie Beanie', cursive;
-  
+
 }
 
 h1{
   font-size: 44px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+h3{
+  font-size: 60px;
   text-align: center;
   color: #FFFFFF;
 }
