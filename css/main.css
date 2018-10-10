@@ -1,7 +1,7 @@
 body {
   background-color: #546A76;
   font-family: 'Reenie Beanie', cursive;
-  
+
 }
 
 h1{
@@ -18,4 +18,9 @@ p{
   font-size: 30px;
   text-align: center;
   font-family: 'Comic Sans MS', 'sans-serif';
+}
+
+#harry-mark {
+  color: blue;
+  font-size: 1.5rem;
 }
