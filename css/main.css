@@ -6,6 +6,13 @@ body {
 
 h1{
   font-size: 44px;
+  font-family: Georgia;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+h3{
+  font-size: 60px;
   text-align: center;
   color: #FFFFFF;
 }
