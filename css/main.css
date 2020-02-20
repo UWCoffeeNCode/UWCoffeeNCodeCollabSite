@@ -37,16 +37,16 @@ p{
 .button {
   height: 40px;
   width 80px;
-  border: 2px solid Blue;
+  border: 2px solid LemonChiffon;
   margin-left: 2px;
   margin-bottom: 10px;
   transition: 0.5s;
   text-align: center;
-  color: darkBlue;
+  color: CornflowerBlue;
 }
 
 .button:hover{
-  background: blue;
+  background: LemonChiffon;
 }
 
   
