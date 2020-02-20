@@ -27,10 +27,27 @@ img{
 p{
   font-size: 30px;
   text-align: center;
-  font-family: 'Comic Sans MS', 'sans-serif';
+  font-family: 'Monsterrat', 'sans-serif';
 }
 
 #harry-mark {
   color: blue;
   font-size: 1.5rem;
 }
+.button {
+  height: 40px;
+  width 80px;
+  border: 2px solid Blue;
+  margin-left: 2px;
+  margin-bottom: 10px;
+  transition: 0.5s;
+  text-align: center;
+  color: darkBlue;
+}
+
+.buttom:hover{
+  background: blue;
+}
+
+  
+  
