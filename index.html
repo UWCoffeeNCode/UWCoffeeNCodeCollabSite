@@ -24,5 +24,25 @@
             Go here to see our Winter 2020 version of the site!
             </a>
         </p>
+        <div id="zxing" style="display: block; position: fixed;">
+            <p>
+                <a href="https://github.com/zxing/zxing" target="_blank">
+                    zxing
+                </a>
+            </p>
+        </div>
     </body>
+
+    <script>
+        const zxingDiv = document.getElementById('zxing');
+
+        window.onmousemove = (e) => {
+            const x = e.clientX,
+            y = e.clientY;
+            
+            zxingDiv.style.left = `${x + 25}px`;
+            zxingDiv.style.top = `${y + 25}px`;
+        };
+    </script>
+
 </html>
