@@ -4,13 +4,6 @@ body {
 
 }
 
-h1{
-  font-size: 45px;
-  font-family: Quantico;
-  text-align: center;
-  color: #0076e4;
-}
-
 h3{
   font-size: 60px;
   text-align: center;
@@ -24,11 +17,6 @@ img{
   width: 50%;
 }
 
-p{
-  font-size: 30px;
-  text-align: center;
-  font-family: 'Montserrat', 'sans-serif';
-}
 
 #harry-mark {
   color: blue;
@@ -38,6 +26,23 @@ p{
 .button:hover{
   background: LemonChiffon;
 }
+  
+.landing-page{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  background-image: url("../images/coffee-beans-.jpg");
+  background-size: cover;
+}
 
-  
-  
+#and{
+  margin-top: 15px;
+}
+
+#title {
+  color: #732C2C;
+}
+
+.landing-page p h5 {
+  color: #732C2C;
+}
