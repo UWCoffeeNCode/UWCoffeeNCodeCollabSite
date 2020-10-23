@@ -34,16 +34,6 @@ p{
   color: blue;
   font-size: 1.5rem;
 }
-.button {
-  height: 40px;
-  width 80px;
-  border: 2px solid LemonChiffon;
-  margin-left: 2px;
-  margin-bottom: 10px;
-  transition: 0.5s;
-  text-align: center;
-  color: CornflowerBlue;
-}
 
 .button:hover{
   background: LemonChiffon;
