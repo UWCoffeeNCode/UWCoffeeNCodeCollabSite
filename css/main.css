@@ -8,7 +8,7 @@ h1{
   font-size: 45px;
   font-family: Quantico;
   text-align: center;
-  color: #FFFFFF;
+  color: #0076e4;
 }
 
 h3{
@@ -33,16 +33,6 @@ p{
 #harry-mark {
   color: blue;
   font-size: 1.5rem;
-}
-.button {
-  height: 40px;
-  width 80px;
-  border: 2px solid LemonChiffon;
-  margin-left: 2px;
-  margin-bottom: 10px;
-  transition: 0.5s;
-  text-align: center;
-  color: CornflowerBlue;
 }
 
 .button:hover{
